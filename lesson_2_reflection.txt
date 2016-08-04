@@ -10,8 +10,9 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	if you want to create a new version of your software, you can use this tool (branch) and dont modify the history of your proyect when this new version doesnt work.
 
 How do the diagrams help you visualize the branch structure?
 
